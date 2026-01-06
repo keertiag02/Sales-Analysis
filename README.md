@@ -37,4 +37,3 @@
  </ul>
 </p>
 
-<img src = ""C:\Users\keert\OneDrive\Pictures\Screenshots\Screenshot 2026-01-06 083419.png" alt = "Dashboard1">
