@@ -36,4 +36,6 @@
  <li>Sales is the least in July (44K)</li>
  </ul>
 </p>
+<img width="500" height="600" alt="Sales Project" src="https://github.com/user-attachments/assets/c27af466-97fd-4cb8-9557-197b5f4c9b2c" />
+
 
