@@ -1,5 +1,5 @@
 # Sales-Analysis
-<h3>Developed a <b>Power BI dashboard</b> to compare and visualize 2023 vs 2024 sales performance.</h3>
+<h3>Built a <b>Power BI dashboard</b> to compare and visualize 2023 vs 2024 sales performance.</h3>
 <p><b>From 2023 to 2024, visualized:</b>
  <ul>
  <li>37.17% growth in total sales (+186.59K)</li>
